@@ -150,6 +150,7 @@ def main():
     if args.save_model:
         torch.save(model.state_dict(), "mnist_cnn.pt")
 
+# For Opensource_programming 2025.04.02
 
 if __name__ == '__main__':
     main()
