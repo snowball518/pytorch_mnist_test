@@ -7,6 +7,7 @@ from torchvision import datasets, transforms
 from torch.optim.lr_scheduler import StepLR
 import pandas as pd
 
+#added text
 
 data = {
     '이름': ['박서현'],
